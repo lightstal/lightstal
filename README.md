@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryan
 - 👀 I’m interested in infosec and cybersecurity
-- 🌱 I’m currently learning doing a Diploma in Infocomm Security Management
+- 🌱 I’m currently in NS
 - 📫 How to reach me Instagram : @bryankqz, ✉️ : bryankor1501@gmail.com
 
 ### Languages and technologies I currently know:
