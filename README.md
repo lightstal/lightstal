@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bryan
-- 👀 I’m interested in infosec and cybersecurity
+- 👀 I’m interested in Cyber and Internet Security and I am also an upcoming student in SIT's Honours Degree in ICT Information Security 
 - 🌱 I’m currently in NS
 - 📫 How to reach me Instagram : @bryankqz, ✉️ : bryankor1501@gmail.com
 
