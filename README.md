@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryan
-- 👀 I’m interested in Cyber and Internet Security and I am also an upcoming student in SIT's Honours Degree in ICT Information Security 
-- 🌱 I’m currently in NS
+- 👀 I’m interested in Cyber and Internet Securit
+- 🌱 I’m currently in SIT's Honours Degree in ICT Information Security 
 - 📫 How to reach me Instagram : @bryankqz, ✉️ : bryankor1501@gmail.com
 
 ### Languages and technologies I currently know:
