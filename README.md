@@ -13,7 +13,8 @@
 
 <img style="margin-right: 10px;" align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <img style="margin-right: 10px;" align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
-<img style="margin-right: 10px;" align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" />
+<img style="margin-right: 10px;" align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
 
 <br>
 <br>
