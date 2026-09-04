@@ -18,4 +18,4 @@
 
 <br>
 <br>
-<img align="left" alt="Bryan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lightstal&show_icons=true&theme=dracula" />
+![GitHub Stats](https://ghstats.dev/api/card?username=lightstal)
