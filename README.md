@@ -18,4 +18,4 @@
 
 <br>
 <br>
-![GitHub Stats](https://ghstats.dev/api/card?username=lightstal)
+<img src="https://ghstats.dev/api/card?username=lightstal" alt="GitHub Stats Card" />
